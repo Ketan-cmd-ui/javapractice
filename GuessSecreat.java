@@ -6,7 +6,7 @@ public class GuessSecreat {
         {
             System.out.println("Correct guess");
         }
-        else if(guess >secretNumber)
+        else if(guess > secretNumber)
         {
             System.out.println("to high");
         }

@@ -2,7 +2,7 @@ public class ArrayMaxEvenNumber {
     public static void main(String[] args) {
       int[] arr = {12, 50, 22, 8};
        int maxeven=arr[0];
-       int evennumber=arr[0];
+
        for(int i=0;i<arr.length;i++)
        {
         if(arr[i]%2==0 && arr[i]>maxeven)

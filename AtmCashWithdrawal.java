@@ -8,7 +8,7 @@ public class AtmCashWithdrawal {
         System.out.println("Transaction successful");
         System.out.println( "the remaining balacnce is  "+remainingBalance);
        }
-       else if( balance <withdraw)
+       else if( balance < withdraw)
        {
        
         System.out.println("insufficient Balance");

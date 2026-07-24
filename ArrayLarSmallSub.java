@@ -3,7 +3,7 @@ public class ArrayLarSmallSub {
     int[] arr = {10, 4, 15, 2, 20};
      int largest=arr[0];
      int smallest=arr[0];
-     int differenc=0;
+  
     for(int i=0;i<arr.length;i++)
     {
       
